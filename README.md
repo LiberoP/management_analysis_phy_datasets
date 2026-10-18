@@ -1,6 +1,9 @@
 ## Hands-on lectures for the _Management and Analysis of Physics Datasets - Module B (MAPD-B)_ course
 ### M.Sc. in Physic of Data — University of Padova — Academic Year 2025-2026
 
+#### Important note
+Not all exercises have been completed; see the About (repository description) for the topics I focused on.
+
 | Folder | Topic |
 |---|---|
 | `mysql`    |  MySQL - relational database | 
