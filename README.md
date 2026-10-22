@@ -2,7 +2,8 @@
 ### M.Sc. in Physic of Data — University of Padova — Academic Year 2025-2026
 
 #### Important note
-Not all exercises have been completed; I focused mostly on Docker, MySQL, parallel programming concepts, and Dask.
+This fork includes MY OWN (Libero Pollini) personal notes to lectures and exercises.
+However, not all exercises here have been completed; I focused mostly on Docker, MySQL, parallel programming concepts, and Dask.
 
 #### Contents
 
